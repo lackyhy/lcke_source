@@ -13,6 +13,7 @@ if error "permission denied: ./lcke", to:
  chmod +x lcke
 ```
 
+run:
 ```bash
 ./lcke
 ```
